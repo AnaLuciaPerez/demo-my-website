@@ -3,4 +3,4 @@
 Getting started
 
 
-Now editing this file on update-readme file..
+Upsdates made on master on GitHub before rebase.
